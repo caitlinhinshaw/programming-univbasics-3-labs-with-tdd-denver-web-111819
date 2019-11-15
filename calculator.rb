@@ -1,3 +1,3 @@
 # Add your variables here
-first_number = 2.5
+first_number = "25"
 second_number = 100
